@@ -112,3 +112,7 @@ const Nolly = {
     </td>
   </tr>
 </table>
+
+---
+
+<img src="images/cute.svg" alt="Cute" width="100%">
