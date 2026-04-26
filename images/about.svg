@@ -28,7 +28,7 @@
         <rect id="contributions-box" width="90" height="37" rx="8" transform="translate(-90 0)" fill="#C5FFD9"/>
         <path id="contributions-icon" transform="translate(-80 9)" fill="#00F14F" d="M12.438,14.87v5.148H10.722V14.87H8.148l3.432-4.29,3.432,4.29Zm1.716,1.716h2.574V14.012h-.686L11.58,8.435,6.987,14.012H6a1.287,1.287,0,0,0,0,2.574h3V18.3H6a3,3,0,0,1-3-3V4.574A2.574,2.574,0,0,1,5.574,2H17.586a.858.858,0,0,1,.858.858V17.444a.858.858,0,0,1-.858.858H14.154ZM6.432,4.574V6.29H8.148V4.574Zm0,2.574V8.864H8.148V7.148Z"/>
         <text id="contributions-text" transform="translate(-52.5 25)" fill="#00F14F" font-size="16">
-          <tspan x="0" y="0">157</tspan>
+          <tspan x="0" y="0">159</tspan>
         </text>
       </g>
     </g>
