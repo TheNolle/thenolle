@@ -21,7 +21,7 @@
         <rect id="stars-box" width="90" height="37" rx="8" transform="translate(-90 0)" fill="#FFEFCD"/>
         <path id="stars-icon" transform="translate(-80 10)" fill="#FFA100" d="M9.6.608,7.369,5.131l-4.992.728a1.094,1.094,0,0,0-.6,1.865l3.611,3.519L4.53,16.215a1.093,1.093,0,0,0,1.585,1.151l4.465-2.347,4.465,2.347a1.094,1.094,0,0,0,1.585-1.151l-.854-4.971,3.611-3.519a1.094,1.094,0,0,0-.6-1.865l-4.992-.728L11.561.608A1.094,1.094,0,0,0,9.6.608Z"/>
         <text id="stars-text" transform="translate(-52.5 25)" fill="#FFA100" font-size="16">
-          <tspan x="0" y="0">2</tspan>
+          <tspan x="0" y="0">3</tspan>
         </text>
       </g>
       <g id="contributions">
